@@ -1,3 +1,2 @@
-# Catstronauts - client
-
-The starting point of the `client` code for Odyssey Lift-off I course.
+# graphyQL-lift-off-server
+Client repository of Apollo Odyssey Lift Off program
