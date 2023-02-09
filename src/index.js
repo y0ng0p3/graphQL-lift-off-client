@@ -5,7 +5,7 @@ import GlobalStyles from "./styles";
 import Pages from "./pages";
 
 const client = new ApolloClient({
-  uri: "https://yongope-castronauts.up.railway.app/",
+  uri: "https://yongope-castronauts-server.up.railway.app/",
   cache: new InMemoryCache(),
 });
 
